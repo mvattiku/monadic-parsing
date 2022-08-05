@@ -6,6 +6,8 @@ Monadic Parsing
 
 **Professor**: Mattox Beckman
 
+**GitHub Repo**: https://github.com/mvattiku/monadic-parsing
+
 Overview
 ==========
 The goal of this project was to implement the functional pearl 'Monadic Parsing in Haskell'. The motivation for choosing this paticular pearl to implement was to dive deeper into monads and use them to implement a parser. 
